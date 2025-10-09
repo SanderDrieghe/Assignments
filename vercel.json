@@ -1,6 +1,0 @@
- {
-   "rewrites": [
-     { "source": "/old-path", "destination": "/new-path" },
-     { "source": "/api/:path*", "destination": "https://external-api.com/:path*" }
-   ]
- }
